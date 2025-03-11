@@ -18,10 +18,10 @@ Com mais de 4 anos de experiência em análise de dados no mercado financeiro, e
   - **Scrum** 📅
     
 - **Linguagens de Programação**:
-  - **Python** 🐍
+  - **Python Básico** 🐍
     
 - **Análise de Dados** 
-  - **Excell**📊
+  - **Microsoft Excell**📊
 - **Conformidade e Normas Regulatórias** 📜
 - **Inglês Intermediário** 🌍
 
