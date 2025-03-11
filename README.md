@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Francisco!
 
 ## 🚀 Analista de Dados Financeiros em transição para Quality Assurance (QA) | Buscando oportunidades para aplicar habilidades analíticas e técnicas em garantia de qualidade de software.
 
-Com mais de 4 anos de experiência em análise de dados no mercado financeiro, estou direcionando minha carreira para **Quality Assurance (QA)**, onde pretendo aplicar minha visão analítica e habilidades técnicas para garantir a qualidade de software e processos. Minha experiência em instituições como **Itaú Unibanco** e **Valor Econômico** consolidou minha capacidade de identificar problemas, otimizar processos e entregar resultados precisos — competências que considero essenciais para atuar em QA.
+Com mais de 4 anos de experiência em análise de dados no mercado financeiro, estou direcionando minha carreira para **Quality Assurance (QA)**, onde pretendo aplicar minha visão analítica e habilidades técnicas para garantir a qualidade de software e processos. Minha experiência em instituições como **Valor Econômico** e **Itaú Unibanco** onde consolidou minha capacidade de identificar problemas, otimizar processos e entregar resultados precisos — competências que considero essenciais para atuar em QA.
 
 ---
 
@@ -20,8 +20,8 @@ Com mais de 4 anos de experiência em análise de dados no mercado financeiro, e
 - **Linguagens de Programação**:
   - **Python** 🐍
     
-- **Análise de Dados** 📊
-  - Excell
+- **Análise de Dados** 
+  - **Excell**📊
 - **Conformidade e Normas Regulatórias** 📜
 - **Inglês Intermediário** 🌍
 
