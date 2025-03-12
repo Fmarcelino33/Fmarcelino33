@@ -53,8 +53,7 @@ Atualmente, estou em uma **transição estratégica para a área de Tecnologia, 
 
 ## 🎯 Objetivos
 
-Estou em busca de oportunidades em **Quality Assurance (QA)** para aplicar e expandir meus conhecimentos. 
-Se você está procurando um profissional dedicado, analítico e com forte capacidade de resolução de problemas, vamos conversar!
+Busco oportunidades na área de Tecnologia, com foco em Quality Assurance (QA), onde posso aplicar minha experiência em análise de dados, minha visão detalhista e minha paixão por entregas de alta qualidade. Estou especialmente interessado em projetos que envolvam testes manuais e automatizados, garantia de qualidade de software e melhoria de processos.
 
 ---
 
