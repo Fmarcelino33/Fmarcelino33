@@ -2,7 +2,9 @@
 
 ## 🚀 Analista de Dados Financeiros em transição para Quality Assurance (QA) | Buscando oportunidades para aplicar habilidades analíticas e técnicas em garantia de qualidade de software.
 
-Com mais de 4 anos de experiência em análise de dados no mercado financeiro, estou direcionando minha carreira para **Quality Assurance (QA)**, onde pretendo aplicar minha visão analítica e habilidades técnicas para garantir a qualidade de software e processos. Minha experiência em instituições como **Valor Econômico** e **Itaú Unibanco** onde consolidou minha capacidade de identificar problemas, otimizar processos e entregar resultados precisos — competências que considero essenciais para atuar em QA.
+Com uma trajetória de 15+ anos de experiência profissional, construí uma carreira marcada por versatilidade, aprendizado contínuo e resultados. Iniciei como Desenhista Projetista, onde desenvolvi uma base sólida em precisão técnica e pensamento analítico. Nos últimos 6 anos, migrei para o segmento financeiro, atuando em empresas de renome como Itaú, Valor Econômico e Globo. Nesse período, tornei-me especialista em monitoramento e análise de dados, utilizando ferramentas como Python para transformar informações em insights estratégicos e impulsionar decisões de negócio.
+
+Atualmente, estou em uma transição estratégica para a área de Tecnologia, com foco em Quality Assurance (QA). Minha experiência prévia em análise de dados, combinada com minha habilidade de enxergar padrões e antecipar problemas, me posiciona como um profissional único, capaz de garantir a qualidade, eficiência e confiabilidade de sistemas e produtos. Estou em processo de certificação em QA, com estudos direcionados para testes manuais e automatizados, e tenho grande interesse em contribuir para projetos que unam tecnologia, inovação e excelência operacional.
 
 ---
 
